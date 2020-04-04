@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/hind-siliguri-v6-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Hind Siliguri Regular'), local('HindSiliguri-Regular'),
+       url('fonts/hind-siliguri-v6-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/hind-siliguri-v6-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/hind-siliguri-v6-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('fonts/hind-siliguri-v6-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/hind-siliguri-v6-latin-regular.svg#\1') format('svg'); /* Legacy iOS */
+}
+
+body {
+  /* royal gradient */
+  background: #141E30;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #EFFBF6;
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+.app-title {
+  text-align: center;
+  width: 100%;
+}
+
+h1 {
+  font-style: bold;
+}
