@@ -2,7 +2,7 @@
 
 This is a shiny application for data exploration and visualization of posts on r/52weeksofcooking in 2019. The application is currently deployed on shinyapps.io.
 
-https://chengvt.shinyapps.io/52weeksofcookingin2019/
+https://chengvt.shinyapps.io/52weeksofcookingin2019/ (optimized for PC viewing)
 
 Main functionality
 
